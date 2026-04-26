@@ -90,7 +90,3 @@ mpirun -np 4 A3/problem3
 ## Assignment Assets
 
 Each assignment folder includes the original PDF and screenshots used for submission/reference.
-
-## Date
-
-README added on 2026-04-26.
